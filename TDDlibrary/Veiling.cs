@@ -9,7 +9,7 @@ namespace TDDlibrary
         {
             if (bedrag>HoogsteBod)
             {
-                hoogsteBodValue = bedrag; //test
+                hoogsteBodValue = bedrag; //test voor git
             }
         }
         private decimal hoogsteBodValue;
